@@ -1,0 +1,76 @@
+{"level":"http","message":"GET en /testlogs - at 8/3/2024 - 18:17:55","timestamp":"2024-03-08 18:17:55"}
+{"level":"warn","message":"Log de Warning","timestamp":"2024-03-08 18:17:55"}
+{"level":"http","message":"GET en /testlogs - at 8/3/2024 - 18:23:13","timestamp":"2024-03-08 18:23:13"}
+{"level":"warn","message":"Log de Warning","timestamp":"2024-03-08 18:23:13"}
+{"level":"http","message":"GET en /testlogs - at 8/3/2024 - 18:24:06","timestamp":"2024-03-08 18:24:06"}
+{"level":"warn","message":"Log de Warning","timestamp":"2024-03-08 18:24:06"}
+{"level":"http","message":"GET en /testlogs - at 8/3/2024 - 18:25:14","timestamp":"2024-03-08 18:25:14"}
+{"level":"warn","message":"Log de Warning","timestamp":"2024-03-08 18:25:14"}
+{"level":"http","message":"GET en /testlogs - at 8/3/2024 - 18:25:39","timestamp":"2024-03-08 18:25:39"}
+{"level":"warn","message":"Log de Warning","timestamp":"2024-03-08 18:25:39"}
+{"level":"http","message":"GET en /testlogs - at 8/3/2024 - 18:26:56","timestamp":"2024-03-08 18:26:56"}
+{"level":"warn","message":"Log de Warning","timestamp":"2024-03-08 18:26:56"}
+{"level":"http","message":"GET en /testlogs - at 8/3/2024 - 18:27:18","timestamp":"2024-03-08 18:27:18"}
+{"level":"warn","message":"Log de Warning","timestamp":"2024-03-08 18:27:18"}
+{"level":"http","message":"GET en / - at 11/3/2024 - 9:48:46","timestamp":"2024-03-11 09:48:46"}
+{"level":"http","message":"GET en /assets/css/material-kit.css - at 11/3/2024 - 9:48:46","timestamp":"2024-03-11 09:48:46"}
+{"level":"http","message":"GET en /assets/css/bootstrap.min.css - at 11/3/2024 - 9:48:46","timestamp":"2024-03-11 09:48:46"}
+{"level":"http","message":"GET en /js/login.js - at 11/3/2024 - 9:48:46","timestamp":"2024-03-11 09:48:46"}
+{"level":"http","message":"GET en /assets/js/jquery.min.js - at 11/3/2024 - 9:48:46","timestamp":"2024-03-11 09:48:46"}
+{"level":"http","message":"GET en /assets/js/material.min.js - at 11/3/2024 - 9:48:46","timestamp":"2024-03-11 09:48:46"}
+{"level":"http","message":"GET en /assets/js/bootstrap.min.js - at 11/3/2024 - 9:48:46","timestamp":"2024-03-11 09:48:46"}
+{"level":"http","message":"GET en /assets/js/nouislider.min.js - at 11/3/2024 - 9:48:46","timestamp":"2024-03-11 09:48:46"}
+{"level":"http","message":"GET en /assets/js/bootstrap-datepicker.js - at 11/3/2024 - 9:48:46","timestamp":"2024-03-11 09:48:46"}
+{"level":"http","message":"GET en /assets/js/material-kit.js - at 11/3/2024 - 9:48:46","timestamp":"2024-03-11 09:48:46"}
+{"level":"http","message":"GET en /assets/img/city.jpg - at 11/3/2024 - 9:48:46","timestamp":"2024-03-11 09:48:46"}
+{"level":"http","message":"POST en /api/extend/users/login - at 11/3/2024 - 9:48:49","timestamp":"2024-03-11 09:48:49"}
+{"level":"http","message":"POST en /api/extend/users/login - at 11/3/2024 - 9:48:55","timestamp":"2024-03-11 09:48:55"}
+{"level":"http","message":"GET en /products - at 11/3/2024 - 9:48:55","timestamp":"2024-03-11 09:48:55"}
+{"level":"http","message":"GET en /api/products - at 11/3/2024 - 9:48:55","timestamp":"2024-03-11 09:48:55"}
+{"level":"http","message":"GET en /assets/css/bootstrap.min.css - at 11/3/2024 - 9:48:55","timestamp":"2024-03-11 09:48:55"}
+{"level":"http","message":"GET en /assets/css/material-kit.css - at 11/3/2024 - 9:48:55","timestamp":"2024-03-11 09:48:55"}
+{"level":"http","message":"GET en /assets/js/bootstrap.min.js - at 11/3/2024 - 9:48:55","timestamp":"2024-03-11 09:48:55"}
+{"level":"http","message":"GET en /assets/js/jquery.min.js - at 11/3/2024 - 9:48:55","timestamp":"2024-03-11 09:48:55"}
+{"level":"http","message":"GET en /assets/js/material.min.js - at 11/3/2024 - 9:48:55","timestamp":"2024-03-11 09:48:55"}
+{"level":"http","message":"GET en /assets/js/nouislider.min.js - at 11/3/2024 - 9:48:55","timestamp":"2024-03-11 09:48:55"}
+{"level":"http","message":"GET en /assets/js/bootstrap-datepicker.js - at 11/3/2024 - 9:48:55","timestamp":"2024-03-11 09:48:55"}
+{"level":"http","message":"GET en /assets/js/material-kit.js - at 11/3/2024 - 9:48:55","timestamp":"2024-03-11 09:48:55"}
+{"level":"http","message":"GET en /logout - at 11/3/2024 - 9:50:36","timestamp":"2024-03-11 09:50:36"}
+{"level":"http","message":"GET en / - at 11/3/2024 - 9:50:36","timestamp":"2024-03-11 09:50:36"}
+{"level":"http","message":"GET en /assets/css/bootstrap.min.css - at 11/3/2024 - 9:50:37","timestamp":"2024-03-11 09:50:37"}
+{"level":"http","message":"GET en /assets/css/material-kit.css - at 11/3/2024 - 9:50:37","timestamp":"2024-03-11 09:50:37"}
+{"level":"http","message":"GET en /js/login.js - at 11/3/2024 - 9:50:37","timestamp":"2024-03-11 09:50:37"}
+{"level":"http","message":"GET en /assets/js/jquery.min.js - at 11/3/2024 - 9:50:37","timestamp":"2024-03-11 09:50:37"}
+{"level":"http","message":"GET en /assets/js/bootstrap.min.js - at 11/3/2024 - 9:50:37","timestamp":"2024-03-11 09:50:37"}
+{"level":"http","message":"GET en /assets/js/material.min.js - at 11/3/2024 - 9:50:37","timestamp":"2024-03-11 09:50:37"}
+{"level":"http","message":"GET en /assets/js/nouislider.min.js - at 11/3/2024 - 9:50:37","timestamp":"2024-03-11 09:50:37"}
+{"level":"http","message":"GET en /assets/js/bootstrap-datepicker.js - at 11/3/2024 - 9:50:37","timestamp":"2024-03-11 09:50:37"}
+{"level":"http","message":"GET en /assets/js/material-kit.js - at 11/3/2024 - 9:50:37","timestamp":"2024-03-11 09:50:37"}
+{"level":"http","message":"GET en /assets/img/city.jpg - at 11/3/2024 - 9:50:37","timestamp":"2024-03-11 09:50:37"}
+{"level":"http","message":"POST en /api/extend/users/login - at 11/3/2024 - 9:50:42","timestamp":"2024-03-11 09:50:42"}
+{"level":"http","message":"GET en / - at 11/3/2024 - 13:21:24","timestamp":"2024-03-11 13:21:24"}
+{"level":"http","message":"GET en /testlog - at 11/3/2024 - 13:21:34","timestamp":"2024-03-11 13:21:34"}
+{"level":"http","message":"GET en /testlogs - at 11/3/2024 - 13:22:22","timestamp":"2024-03-11 13:22:22"}
+{"level":"warn","message":"Log de Warning","timestamp":"2024-03-11 13:22:22"}
+{"level":"http","message":"GET en /favicon.ico - at 11/3/2024 - 13:22:22","timestamp":"2024-03-11 13:22:22"}
+{"level":"http","message":"GET en /testlogs - at 11/3/2024 - 13:35:48","timestamp":"2024-03-11 13:35:48"}
+{"level":"error","message":"Error a Registrar: ----> Registro de Error ","timestamp":"2024-03-11 13:35:48"}
+{"level":"warn","message":"Error a Registrar: ----> Registro de Warn ","timestamp":"2024-03-11 13:35:48"}
+{"level":"info","message":"Error a Registrar: ----> Registro de Info ","timestamp":"2024-03-11 13:35:48"}
+{"level":"http","message":"Error a Registrar: ----> Registro de Http ","timestamp":"2024-03-11 13:35:48"}
+{"level":"verbose","message":"Error a Registrar: ----> Registro de Verbose ","timestamp":"2024-03-11 13:35:48"}
+{"level":"debug","message":"Error a Registrar: ----> Registro de debug ","timestamp":"2024-03-11 13:35:48"}
+{"level":"http","message":"GET en /testlogs - at 11/3/2024 - 13:36:57","timestamp":"2024-03-11 13:36:57"}
+{"level":"error","message":"Error a Registrar: ----> Registro de Error ","timestamp":"2024-03-11 13:36:57"}
+{"level":"warn","message":"Error a Registrar: ----> Registro de Warn ","timestamp":"2024-03-11 13:36:57"}
+{"level":"info","message":"Error a Registrar: ----> Registro de Info ","timestamp":"2024-03-11 13:36:57"}
+{"level":"http","message":"Error a Registrar: ----> Registro de Http ","timestamp":"2024-03-11 13:36:57"}
+{"level":"verbose","message":"Error a Registrar: ----> Registro de Verbose ","timestamp":"2024-03-11 13:36:57"}
+{"level":"debug","message":"Error a Registrar: ----> Registro de debug ","timestamp":"2024-03-11 13:36:57"}
+{"level":"http","message":"GET en /testlogs - at 11/3/2024 - 13:37:53","timestamp":"2024-03-11 13:37:53"}
+{"level":"error","message":"Error a Registrar: ----> Registro de Error ","timestamp":"2024-03-11 13:37:54"}
+{"level":"warn","message":"Error a Registrar: ----> Registro de Warn ","timestamp":"2024-03-11 13:37:54"}
+{"level":"info","message":"Error a Registrar: ----> Registro de Info ","timestamp":"2024-03-11 13:37:54"}
+{"level":"http","message":"Error a Registrar: ----> Registro de Http ","timestamp":"2024-03-11 13:37:54"}
+{"level":"verbose","message":"Error a Registrar: ----> Registro de Verbose ","timestamp":"2024-03-11 13:37:54"}
+{"level":"debug","message":"Error a Registrar: ----> Registro de debug ","timestamp":"2024-03-11 13:37:54"}
