@@ -3,7 +3,7 @@ import express from 'express';
 import cookieParser from 'cookie-parser';
 import handlebars from 'express-handlebars';
 import __dirname from './utils.js';
-import { addLoger } from './utils/new_logger.js';
+import {  addLogger } from './utils/new_logger.js';
 import methodOverride from 'method-override';
 import { allowInsecurePrototypeAccess } from '@handlebars/allow-prototype-access';
 import MongoStore from 'connect-mongo';
@@ -35,7 +35,7 @@ const app = express();
 const cookieParserMiddleware = cookieParser(PRIVATE_KEY);
 app.use(cookieParserMiddleware);
 
-app.use(addLoger);
+app.use(addLogger);
 
 //Configuración de la conexión a MongoDB y sesiones
 const MONGO_URL = config.urlMongo; 

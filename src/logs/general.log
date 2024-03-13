@@ -74,3 +74,108 @@
 {"level":"http","message":"Error a Registrar: ----> Registro de Http ","timestamp":"2024-03-11 13:37:54"}
 {"level":"verbose","message":"Error a Registrar: ----> Registro de Verbose ","timestamp":"2024-03-11 13:37:54"}
 {"level":"debug","message":"Error a Registrar: ----> Registro de debug ","timestamp":"2024-03-11 13:37:54"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en / - at 11/3/2024 - 16:36:08","timestamp":"2024-03-11 16:36:08"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/css/bootstrap.min.css - at 11/3/2024 - 16:36:08","timestamp":"2024-03-11 16:36:08"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/css/material-kit.css - at 11/3/2024 - 16:36:08","timestamp":"2024-03-11 16:36:08"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /js/login.js - at 11/3/2024 - 16:36:08","timestamp":"2024-03-11 16:36:08"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/jquery.min.js - at 11/3/2024 - 16:36:08","timestamp":"2024-03-11 16:36:08"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/nouislider.min.js - at 11/3/2024 - 16:36:08","timestamp":"2024-03-11 16:36:08"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/bootstrap-datepicker.js - at 11/3/2024 - 16:36:08","timestamp":"2024-03-11 16:36:08"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/bootstrap.min.js - at 11/3/2024 - 16:36:08","timestamp":"2024-03-11 16:36:08"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/material.min.js - at 11/3/2024 - 16:36:08","timestamp":"2024-03-11 16:36:08"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/material-kit.js - at 11/3/2024 - 16:36:08","timestamp":"2024-03-11 16:36:08"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/img/city.jpg - at 11/3/2024 - 16:36:09","timestamp":"2024-03-11 16:36:09"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/img/favicon.png - at 11/3/2024 - 16:36:09","timestamp":"2024-03-11 16:36:09"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en / - at 11/3/2024 - 16:36:56","timestamp":"2024-03-11 16:36:56"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/css/bootstrap.min.css - at 11/3/2024 - 16:36:56","timestamp":"2024-03-11 16:36:56"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/css/material-kit.css - at 11/3/2024 - 16:36:56","timestamp":"2024-03-11 16:36:56"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /js/login.js - at 11/3/2024 - 16:36:56","timestamp":"2024-03-11 16:36:56"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/jquery.min.js - at 11/3/2024 - 16:36:56","timestamp":"2024-03-11 16:36:56"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/bootstrap.min.js - at 11/3/2024 - 16:36:56","timestamp":"2024-03-11 16:36:56"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/material.min.js - at 11/3/2024 - 16:36:56","timestamp":"2024-03-11 16:36:56"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/nouislider.min.js - at 11/3/2024 - 16:36:57","timestamp":"2024-03-11 16:36:57"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/bootstrap-datepicker.js - at 11/3/2024 - 16:36:57","timestamp":"2024-03-11 16:36:57"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/js/material-kit.js - at 11/3/2024 - 16:36:57","timestamp":"2024-03-11 16:36:57"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/img/city.jpg - at 11/3/2024 - 16:36:57","timestamp":"2024-03-11 16:36:57"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /assets/img/favicon.png - at 11/3/2024 - 16:36:57","timestamp":"2024-03-11 16:36:57"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /testlogs - at 11/3/2024 - 16:38:23","timestamp":"2024-03-11 16:38:23"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error a Registrar: ----> Registro de Error ","timestamp":"2024-03-11 16:38:23"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Error a Registrar: ----> Registro de Warn ","timestamp":"2024-03-11 16:38:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Error a Registrar: ----> Registro de Info ","timestamp":"2024-03-11 16:38:23"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"Error a Registrar: ----> Registro de Http ","timestamp":"2024-03-11 16:38:23"}
+{"level":"\u001b[36mverbose\u001b[39m","message":"Error a Registrar: ----> Registro de Verbose ","timestamp":"2024-03-11 16:38:23"}
+{"level":"\u001b[34mdebug\u001b[39m","message":"Error a Registrar: ----> Registro de debug ","timestamp":"2024-03-11 16:38:23"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /favicon.ico - at 11/3/2024 - 16:38:23","timestamp":"2024-03-11 16:38:23"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /testlogs - at 11/3/2024 - 16:40:42","timestamp":"2024-03-11 16:40:42"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error a Registrar: ----> Registro de Error ","timestamp":"2024-03-11 16:40:42"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Error a Registrar: ----> Registro de Warn ","timestamp":"2024-03-11 16:40:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Error a Registrar: ----> Registro de Info ","timestamp":"2024-03-11 16:40:42"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"Error a Registrar: ----> Registro de Http ","timestamp":"2024-03-11 16:40:42"}
+{"level":"\u001b[36mverbose\u001b[39m","message":"Error a Registrar: ----> Registro de Verbose ","timestamp":"2024-03-11 16:40:42"}
+{"level":"\u001b[34mdebug\u001b[39m","message":"Error a Registrar: ----> Registro de debug ","timestamp":"2024-03-11 16:40:42"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /testlogs - at 11/3/2024 - 16:41:35","timestamp":"2024-03-11 16:41:35"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error a Registrar: ----> Registro de Error ","timestamp":"2024-03-11 16:41:35"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Error a Registrar: ----> Registro de Warn ","timestamp":"2024-03-11 16:41:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Error a Registrar: ----> Registro de Info ","timestamp":"2024-03-11 16:41:35"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"Error a Registrar: ----> Registro de Http ","timestamp":"2024-03-11 16:41:35"}
+{"level":"\u001b[36mverbose\u001b[39m","message":"Error a Registrar: ----> Registro de Verbose ","timestamp":"2024-03-11 16:41:35"}
+{"level":"\u001b[34mdebug\u001b[39m","message":"Error a Registrar: ----> Registro de debug ","timestamp":"2024-03-11 16:41:35"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /testlogs - at 11/3/2024 - 16:44:33","timestamp":"2024-03-11 16:44:33"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error a Registrar: ----> Registro de Error ","timestamp":"2024-03-11 16:44:33"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Error a Registrar: ----> Registro de Warn ","timestamp":"2024-03-11 16:44:33"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Error a Registrar: ----> Registro de Info ","timestamp":"2024-03-11 16:44:33"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"Error a Registrar: ----> Registro de Http ","timestamp":"2024-03-11 16:44:33"}
+{"level":"\u001b[36mverbose\u001b[39m","message":"Error a Registrar: ----> Registro de Verbose ","timestamp":"2024-03-11 16:44:33"}
+{"level":"\u001b[34mdebug\u001b[39m","message":"Error a Registrar: ----> Registro de debug ","timestamp":"2024-03-11 16:44:33"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"GET en /testlogs - at 11/3/2024 - 16:47:06","timestamp":"2024-03-11 16:47:06"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error a Registrar: ----> Registro de Error ","timestamp":"2024-03-11 16:47:07"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Error a Registrar: ----> Registro de Warn ","timestamp":"2024-03-11 16:47:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Error a Registrar: ----> Registro de Info ","timestamp":"2024-03-11 16:47:07"}
+{"level":"\u001b[32mhttp\u001b[39m","message":"Error a Registrar: ----> Registro de Http ","timestamp":"2024-03-11 16:47:07"}
+{"level":"\u001b[36mverbose\u001b[39m","message":"Error a Registrar: ----> Registro de Verbose ","timestamp":"2024-03-11 16:47:07"}
+{"level":"\u001b[34mdebug\u001b[39m","message":"Error a Registrar: ----> Registro de debug ","timestamp":"2024-03-11 16:47:07"}
+[32minfo[39m: GET en /testlogs - at 11/3/2024 - 16:52:28 {"timestamp":"2024-03-11 16:52:28"}
+[31merror[39m: Error a Registrar: ----> Registro de Error  {"timestamp":"2024-03-11 16:52:28"}
+[33mwarn[39m: Error a Registrar: ----> Registro de Warn  {"timestamp":"2024-03-11 16:52:28"}
+[32minfo[39m: Error a Registrar: ----> Registro de Info  {"timestamp":"2024-03-11 16:52:28"}
+[32mhttp[39m: Error a Registrar: ----> Registro de Http  {"timestamp":"2024-03-11 16:52:28"}
+[36mverbose[39m: Error a Registrar: ----> Registro de Verbose  {"timestamp":"2024-03-11 16:52:28"}
+[34mdebug[39m: Error a Registrar: ----> Registro de debug  {"timestamp":"2024-03-11 16:52:28"}
+[32minfo[39m: GET en /testlogs - at 11/3/2024 - 17:01:17 {"timestamp":"2024-03-11 17:01:17"}
+[31merror[39m: Error a Registrar: ----> Registro de Error  {"timestamp":"2024-03-11 17:01:17"}
+[33mwarn[39m: Error a Registrar: ----> Registro de Warn  {"timestamp":"2024-03-11 17:01:17"}
+[32minfo[39m: Error a Registrar: ----> Registro de Info  {"timestamp":"2024-03-11 17:01:17"}
+[32mhttp[39m: Error a Registrar: ----> Registro de Http  {"timestamp":"2024-03-11 17:01:17"}
+[36mverbose[39m: Error a Registrar: ----> Registro de Verbose  {"timestamp":"2024-03-11 17:01:17"}
+[34mdebug[39m: Error a Registrar: ----> Registro de debug  {"timestamp":"2024-03-11 17:01:17"}
+[32minfo[39m: GET en /testlogs - at 11/3/2024 - 17:02:53 {"timestamp":"2024-03-11 17:02:53"}
+[31merror[39m: Error a Registrar: ----> Registro de Error  {"timestamp":"2024-03-11 17:02:53"}
+[33mwarn[39m: Error a Registrar: ----> Registro de Warn  {"timestamp":"2024-03-11 17:02:53"}
+[32minfo[39m: Error a Registrar: ----> Registro de Info  {"timestamp":"2024-03-11 17:02:53"}
+[32mhttp[39m: Error a Registrar: ----> Registro de Http  {"timestamp":"2024-03-11 17:02:53"}
+[36mverbose[39m: Error a Registrar: ----> Registro de Verbose  {"timestamp":"2024-03-11 17:02:53"}
+[34mdebug[39m: Error a Registrar: ----> Registro de debug  {"timestamp":"2024-03-11 17:02:53"}
+[32minfo[39m: GET en /testlogs - at 11/3/2024 - 17:03:24 {"timestamp":"2024-03-11 17:03:24"}
+[31merror[39m: Error a Registrar: ----> Registro de Error  {"timestamp":"2024-03-11 17:03:24"}
+[32minfo[39m: GET en /testlogs - at 11/3/2024 - 17:07:34 {"timestamp":"2024-03-11 17:07:34"}
+[32minfo[39m: GET en /testlogs - at 11/3/2024 - 17:08:41 {"timestamp":"2024-03-11 17:08:41"}
+[32minfo[39m: GET en /testlogs - at 11/3/2024 - 17:11:50 {"timestamp":"2024-03-11 17:11:50"}
+[32minfo[39m: [32mGET en /testlogs - at 11/3/2024 - 17:17:40[39m {"timestamp":"2024-03-11 17:17:40"}
+[32minfo[39m: GET en /testlogs - at 11/3/2024 - 17:25:16 {"timestamp":"2024-03-11 17:25:16"}
+[32minfo[39m: GET en /testlogs - at 11/3/2024 - 17:26:33 {"timestamp":"2024-03-11 17:26:33"}
+[32minfo[39m: GET en /testlogs - at 11/3/2024 - 17:33:42 {"timestamp":"2024-03-11 17:33:42"}
+[32minfo[39m: GET en /testlogs - at 11/3/2024 - 17:42:15 {"timestamp":"2024-03-11 17:42:15"}
+[34minfo[39m: GET en /testlogs - at 11/3/2024 - 18:06:42
+[31mfatal[39m: Error a Registrar: ----> Registro de fatal 
+[34minfo[39m: GET en /testlogs - at 11/3/2024 - 18:07:46
+[31mfatal[39m: Error a Registrar: ----> Registro de fatal 
+[34minfo[39m: GET en /testlogs - at 11/3/2024 - 18:08:57
+[31mfatal[39m: Error a Registrar: ----> Registro de fatal 
+[34minfo[39m: GET en /testlogs - at 11/3/2024 - 18:09:31
+[31mfatal[39m: Error a Registrar: ----> Registro de fatal 
+[34minfo[39m: GET en /testlogs - at 11/3/2024 - 18:11:14
+[31mfatal[39m: Error a Registrar: ----> Registro de fatal 
+[34minfo[39m: GET en /testlogs - at 11/3/2024 - 18:12:56
+[31mfatal[39m: Error a Registrar: ----> Registro de fatal 
+[34minfo[39m: GET en /testlogs - at 11/3/2024 - 18:13:36
+[31mfatal[39m: Error a Registrar: ----> Registro de fatal 

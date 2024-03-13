@@ -177,30 +177,26 @@ router.get('/chat', passportCall('current'), (req, res) => {
 
 router.get('/testlogs', (req, res) => {
   //{ error: 0, warn: 1, info: 2, htt:3, verbose: 4, debug: 5, silly: 6 }
+  // fatal: 0,  error: 1,  warning: 2,  info: 3,  debug: 4,
+  const msgfatal = 'Registro de fatal';
   const msgerror = 'Registro de Error';
-  const msgwarn = 'Registro de Warn';
+  const msgwarning = 'Registro de warning';
   const msginfo = 'Registro de Info';
-  const msghttp = 'Registro de Http';
-  const msgverbose = 'Registro de Verbose';
   const msgdebug = 'Registro de debug';
-  const msgsilly = 'Registro de stilly';
-
+  
+  
+  req.logger.fatal(`Error a Registrar: ----> ${msgfatal} `);
   req.logger.error(`Error a Registrar: ----> ${msgerror} `);
-  req.logger.warn(`Error a Registrar: ----> ${msgwarn} `);
+  req.logger.warning(`Error a Registrar: ----> ${msgwarning} `);
   req.logger.info(`Error a Registrar: ----> ${msginfo} `);
-  req.logger.http(`Error a Registrar: ----> ${msghttp} `);
-  req.logger.verbose(`Error a Registrar: ----> ${msgverbose} `);
   req.logger.debug(`Error a Registrar: ----> ${msgdebug} `);
-  req.logger.silly(`Error a Registrar: ----> ${msgsilly} `);
   
   const msgEnviados = {
+    fatal: msgfatal,
     error: msgerror,
-    warn: msgwarn,
+    warning: msgwarning,
     info: msginfo,
-    http: msghttp,
-    verbose: msgverbose,
-    debug: msgdebug,
-    silly: msgsilly
+    debug: msgdebug
   }
   res.send(msgEnviados);
 });
